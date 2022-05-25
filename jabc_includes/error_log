@@ -1,0 +1,171 @@
+[19-Mar-2021 10:09:14 UTC] PHP Fatal error:  Cannot redeclare db_connect() (previously declared in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur-common.php:5) in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur-common.php on line 13
+[23-Mar-2021 09:22:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:24:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:24:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:24:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 09:25:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:25:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:25:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:25:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:26:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:5
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 5
+[23-Mar-2021 09:35:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 09:37:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 09:37:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 10:11:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 10:11:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 7
+[23-Mar-2021 10:12:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_user_id() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:13
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 13
+[23-Mar-2021 10:13:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function get_results() on null in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 17
+[23-Mar-2021 16:14:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 3 for query SELECT *
+    FROM csur_parents
+    WHERE parent_wp_user_fk = %d
+[23-Mar-2021 16:14:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 28
+[23-Mar-2021 16:14:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 3 for query SELECT *
+    FROM csur_parents
+    WHERE parent_wp_user_fk = %d
+[23-Mar-2021 16:14:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 28
+[23-Mar-2021 16:17:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 3 for query SELECT *
+    FROM csur_parents
+    WHERE parent_wp_user_fk = %d
+[23-Mar-2021 16:19:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 3 for query SELECT *
+    FROM csur_parents
+    WHERE parent_wp_user_fk = %d
+[23-Mar-2021 16:24:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 3 for query SELECT parent_id
+    FROM csur_parents
+    WHERE parent_wp_user_fk = %d
+[23-Mar-2021 16:27:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''csur_parents'
+        WHERE parent_wp_user_fk = 38' at line 2 for query SELECT parent_id
+        FROM 'csur_parents'
+        WHERE parent_wp_user_fk = 38
+[23-Mar-2021 16:27:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?
+        WHERE parent_wp_user_fk = 0' at line 2 for query SELECT parent_id
+        FROM ?
+        WHERE parent_wp_user_fk = 0
+[23-Mar-2021 16:28:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?
+        WHERE parent_wp_user_fk = ?' at line 2 for query SELECT parent_id
+        FROM ?
+        WHERE parent_wp_user_fk = ?
+[23-Mar-2021 16:28:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 3 for query SELECT parent_id
+        FROM csur_parents
+        WHERE parent_wp_user_fk = ?
+[23-Mar-2021 16:28:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 3 for query SELECT parent_id
+        FROM csur_parents
+        WHERE parent_wp_user_fk = ?
+[23-Mar-2021 16:48:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:20) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[23-Mar-2021 16:48:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:20) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[25-Mar-2021 13:52:45 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES ('Elodie', 'Ashford', '2018-01-14', '9')
+[25-Mar-2021 13:58:41 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES ('1', '1', '1', '9')
+[25-Mar-2021 14:03:06 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES ('Elodie', 'Ashford', '2018-01-14', '9')
+[25-Mar-2021 14:05:15 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES (NULL, 'Ashford', '2018-01-14', '9')
+[25-Mar-2021 14:08:33 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES (NULL, 'Ashford', '2018-01-14', '9')
+[25-Mar-2021 14:09:31 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `parent_id_fk`) VALUES (NULL, 'Ashford', '9')
+[25-Mar-2021 14:10:57 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `parent_id_fk`) VALUES (NULL, 'Ashford', '9')
+[25-Mar-2021 14:16:58 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`) VALUES (NULL, 'Ashford')
+[25-Mar-2021 14:18:36 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`) VALUES (NULL, 'Ashford')
+[25-Mar-2021 14:22:58 UTC] WordPress database error Unknown column 'child_surename' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surename`, `child_dob`, `parent_id_fk`) VALUES (NULL, 'Ashford', '2018-01-14', '9')
+[10-May-2021 15:03:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method wpdb::exec() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php on line 11
+[10-May-2021 15:03:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method wpdb::execute() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php on line 11
+[10-May-2021 15:05:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 2 for query DELETE FROM csur_child
+        WHERE id = %d
+[10-May-2021 15:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method wpdb::execute() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_remove_child.php on line 11
+[10-May-2021 15:05:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 2 for query DELETE FROM csur_child
+        WHERE id = %d
+[10-May-2021 15:08:14 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 2 for query DELETE FROM csur_child
+        WHERE id = %d
+[10-May-2021 15:11:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%d' at line 2 for query DELETE FROM csur_child
+        WHERE id = %d
+[10-May-2021 15:36:11 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '\\\' . 11'
+[10-May-2021 15:36:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:36:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:38:11 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '\\\' . 8'
+[10-May-2021 15:38:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:38:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:38:47 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '\\\'11'
+[10-May-2021 15:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:38:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:39:35 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = ''
+[10-May-2021 15:39:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:39:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:40:23 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '11'
+[10-May-2021 15:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:40:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:41:05 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '11'
+[10-May-2021 15:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:41:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:44:24 UTC] WordPress database error Table 'cultsta1_wp798.wpr1_csur_child' doesn't exist for query SHOW FULL COLUMNS FROM `wpr1_csur_child`
+[10-May-2021 15:44:24 UTC] WordPress database error Table 'cultsta1_wp798.wpr1_csur_child' doesn't exist for query SHOW FULL COLUMNS FROM `wpr1_csur_child`
+[10-May-2021 15:44:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:44:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[10-May-2021 15:44:53 UTC] WordPress database error Table 'cultsta1_wp798.wpr1_csur_child' doesn't exist for query SHOW FULL COLUMNS FROM `wpr1_csur_child`
+[10-May-2021 15:44:53 UTC] WordPress database error Table 'cultsta1_wp798.wpr1_csur_child' doesn't exist for query SHOW FULL COLUMNS FROM `wpr1_csur_child`
+[10-May-2021 15:44:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[10-May-2021 15:44:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[11-May-2021 08:15:58 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '8'
+[11-May-2021 08:15:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[11-May-2021 08:15:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[11-May-2021 10:41:00 UTC] WordPress database error  for query DELETE FROM `csur_child` WHERE `child_id` = '12'
+[11-May-2021 10:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1329
+[11-May-2021 10:41:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/cultsta1/public_html/jimmo/wp-includes/wp-db.php:1519) in /home1/cultsta1/public_html/jimmo/wp-includes/pluggable.php on line 1332
+[11-May-2021 15:00:14 UTC] WordPress database error Unknown column 'school_id_fk' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surname`, `child_dob`, `parent_id_fk`, `school_id_fk`) VALUES ('Elodie', 'Ashford', '2018-01-14', '15', NULL)
+[11-May-2021 15:04:54 UTC] WordPress database error Unknown column 'school_id_fk' in 'field list' for query INSERT INTO `csur_child` (`child_forename`, `child_surname`, `child_dob`, `parent_id_fk`, `school_id_fk`) VALUES ('Elodie', 'Ashford', '2018-01-14', '15', NULL)
+[11-May-2021 15:06:25 UTC] WordPress database error Column 'vegetarian' cannot be null for query INSERT INTO `csur_child` (`child_forename`, `child_surname`, `child_dob`, `parent_id_fk`, `vegetarian`) VALUES ('Elodie', 'Ashford', '2018-01-14', '15', NULL)
+[11-May-2021 15:09:17 UTC] WordPress database error Column 'vegetarian' cannot be null for query INSERT INTO `csur_child` (`child_forename`, `child_surname`, `child_dob`, `parent_id_fk`, `vegetarian`) VALUES ('Elodie', 'Ashford', '2018-01-14', '15', NULL)
+[13-May-2021 15:17:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php on line 18
+[18-May-2021 10:04:41 UTC] PHP Fatal error:  Cannot redeclare get_current_user_roles() (previously declared in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-includes/csur_login_script.php:12) in /home1/cultsta1/public_html/jimmo/wp-content/plugins/csur-user-registration/csur-user-registration.php on line 204
+[15-Jun-2021 10:13:57 UTC] WordPress database error Unknown column 'vegetarian' in 'field list' for query INSERT INTO `jabc_children` (`child_forename`, `child_surname`, `child_dob`, `parent_id_fk`, `vegetarian`) VALUES ('Alexandra', 'Ashford', '2018-01-14', '2', '1')
